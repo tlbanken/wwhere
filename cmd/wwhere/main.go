@@ -69,6 +69,17 @@ var cities = [...]string{
 	"seattle",
 	"helsinki",
 	"moscow",
+	"beijing",
+	"singapore",
+	"amsterdam",
+	"berlin",
+	"madrid",
+	"dubai",
+	"delhi",
+	"cairo",
+	"shanghai",
+	"boston",
+	"sydney",
 }
 
 const URLBase = "https://community-open-weather-map.p.rapidapi.com/find?"
